@@ -1,4 +1,4 @@
-# A-Treasure-Hunt-through-NYC-Open-Data
+# A Treasure Hunt through NYC Open Data
 **Repo for attendees of NYC Open Data Week Event "A Treasure Hunt through NYC Open Data" on March 23, 2026.** 
 
 Users may wish to download the datasets in this repo to their own computers, or to copy the Google Colab notebook into their own drive and work there. 
@@ -17,7 +17,7 @@ Large datasets have been pulled (possibly filtered) from NYC Open Data via API u
 
 - _311 Service Requests from 2020 to Present_COOPER_SEAMAN.csv_ limits requests to those regarding these 2 streets
 
-**Links to original NYC OpenData datasets:**
+**Links to original NYC Open Data datasets:**
 
 [2023 Yellow Taxi Trip Data
 ](https://data.cityofnewyork.us/Transportation/2023-Yellow-Taxi-Trip-Data/4b4i-vvec)

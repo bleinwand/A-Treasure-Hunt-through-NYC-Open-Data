@@ -34,3 +34,12 @@ Large datasets have been pulled (possibly filtered) from NYC Open Data via API u
 
 [Bicycle Counts for East River Bridges (Historical)](https://data.cityofnewyork.us/Transportation/Bicycle-Counts-for-East-River-Bridges-Historical-/gua4-p9wg)
 
+
+
+
+
+
+
+
+[Solutions](https://colab.research.google.com/drive/12tmSzaN3v5P2O4eYHUMizDwh-WHlLAIY)
+
